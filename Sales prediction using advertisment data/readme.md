@@ -17,7 +17,7 @@ Sales: Sales generated (in thousands of units).
 
 
 ## Model Development
-SVR model from svm was used in the model development
+SVR model from SVM was used in the model development.
 ## Results
 The TV advert bugdet has the highest correlation to sales, therefore the firm has to invest more in TV advert
 Conclusion
