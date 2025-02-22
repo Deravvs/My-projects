@@ -3,7 +3,7 @@
 Predict loan approval status using machine learning. This project includes data preprocessing, model training, and a Streamlit web app for predictions. 
 
 # Aim
-  The projects aims to help banks make accurate decisions on which client ot business is loan worthy in other to mitigate risk and efficiently allocate bank loans
+  The projects aims to help banks make accurate decisions on which client or business is loan worthy in other to mitigate risk and efficiently allocate bank loans.
 
 ## Features
 - Data preprocessing and EDA
