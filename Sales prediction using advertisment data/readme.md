@@ -1,5 +1,5 @@
 ## Sales Prediction Model
-This project involves developing a sales prediction model using advertising data from different mediums (TV, radio, and newspaper). The objective is to determine which advertising medium best boosts sales.
+This project involves developing a sales prediction model using advertising data from different mediums (TV, radio, and newspaper). The objective is to determine which advertising medium or combination of advertisement bugdet to boost sales.
 
 ## Project Overview
 The project aims to leverage advertising data to predict sales and identify the most effective advertising medium. By analyzing the impact of TV, radio, and newspaper advertisements on sales, the model helps businesses make informed decisions on where to allocate their advertising budget for maximum return on investment.
